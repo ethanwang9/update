@@ -3,10 +3,10 @@
         "name": "零星维修系统",
         "version": "1.0.0",
         "hash": {
-            "web": "0CC303BBE89D46B6AD861C2F71296528",
+            "client": "0CC303BBE89D46B6AD861C2F71296528",
             "server": "F559F36F5A9F4B68BE272313226E8458"
         },
-        "log": "<ul>TODO...</ul>",
+        "client": "<ul><li>1.0.0</li><ul><li>更新内容:</li><ol><li>测试更新内容</li></ol></ul><ul><li>修复内容:</li><ol><li>测试修复内容</li></ol></ul><ul><li>更新时间:2024-03-10 12:59:29</li></ul></ul>",
         "time": "2024-03-13 15:41:39"
     }
 ]
